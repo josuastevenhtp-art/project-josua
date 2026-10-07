@@ -1,0 +1,6 @@
+{
+  "name": "MEDREC-IGD: Rekam Medis Elektronik Kegawatdaruratan Mahasiswa RMIK",
+  "description": "Aplikasi Sistem Rekam Medis Elektronik Kegawatdaruratan (RME-IGD) terstruktur berbasis Permenkes 24/2022, Triase ATS/ESI, Kodifikasi ICD-10 & ICD-9-CM, Analisis Mutu KLPCM, dan Dukungan Mobile PWA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
